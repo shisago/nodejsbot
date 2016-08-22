@@ -1,0 +1,26 @@
+{
+  "name": "nodejsbot",
+  "version": "1.0.0",
+  "description": "nodejsbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "bottest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shisago/nodejsbot.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "shisago",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shisago/nodejsbot/issues"
+  },
+  "homepage": "https://github.com/shisago/nodejsbot",
+  "dependencies": {
+    "botbuilder": "^3.2.3",
+    "restify": "^4.1.1"
+  }
+}
